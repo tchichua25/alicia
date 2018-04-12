@@ -1,7 +1,15 @@
 * {
     font-family: Verdana, Arial, sans-serif;
     background-color: #1D1F21;
+    
   }
+  body {
+    color: #C5C8C6;
+}
+
+h1 {
+    color: #DE935F;
+}
   a:link {
     color:#5F819D;
     text-decoration: none;
