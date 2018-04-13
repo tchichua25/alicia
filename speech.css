@@ -24,7 +24,7 @@ h1 {
     background: -webkit-linear-gradient(top,#C95A7B 0,#A04763 100%);
     border: 1px solid #282A2E;
     border-radius: 3px;
-    color: #FEF9E5;
+    color: #C5C8C6;
     display: none;
     font-size: 13px;
     font-weight: bold;
@@ -74,7 +74,8 @@ h1 {
   #results {
     font-size: 14px;
     font-weight: bold;
-    border: 1px solid #282A2E;
+    border: 2px solid #A54242;
+    border-
     padding: 15px;
     text-align: left;
     min-height: 150px;
